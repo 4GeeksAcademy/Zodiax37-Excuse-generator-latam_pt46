@@ -26,4 +26,5 @@ window.onload = function() {
   p.innerText = newExcuse
 
   console.log(newExcuse);
+  console.log(`${whoItem} ${actionItem} ${whatItem} ${whenItem}!`);
 };
